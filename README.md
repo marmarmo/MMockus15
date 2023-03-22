@@ -1,6 +1,6 @@
 ### Hi there, My name is Marla 👋
 - 😄 Pronouns: She/Her
-- 🌱 I’m currently learning TypeScript and React Native.
+- 🌱 I’m currently learning TypeScript and React Redux in order to build a eCommerce site for my ceramic art.
 - 👯 I’m looking to collaborate with others who crave knowledge.
 - ⚡ Fun fact: I am a yoga teacher and sound healer.
 - 📫 Lets connect throught my [Professional Portfolio](https://mmockus15.github.io/mmockus-professional-portfolio/).
