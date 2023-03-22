@@ -1,7 +1,7 @@
-### Hi there, My name is Marla 👋
+### Hi there, My name is Marla, some people call me MarMo 👋
 - 😄 Pronouns: She/Her
-- 🌱 I’m currently learning TypeScript and React Redux in order to build a eCommerce site for my ceramic art.
-- 👯 I’m looking to collaborate with others who crave knowledge.
+- 🌱 I’m currently learning TypeScript and React Redux in order to build an eCommerce site for my ceramic art!
+- 👯 I’m looking to collaborate with others who believe in magic.
 - ⚡ Fun fact: I am a yoga teacher and sound healer.
 - 📫 Lets connect throught my [Professional Portfolio](https://mmockus15.github.io/mmockus-professional-portfolio/).
 
